@@ -1,5 +1,4 @@
 # PRODIGY_ML_03
-Here’s the revised README file without mentioning your internship:
 
 ---
 
@@ -83,4 +82,3 @@ This project demonstrates the application of SVM for image classification, along
 
 ---
 
-This version doesn't reference your internship. Let me know if this works!
